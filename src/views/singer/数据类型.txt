@@ -1,0 +1,26 @@
+[
+	{
+		hot: {
+			title: '热门',
+			item: [
+				{
+					'name': Fsinger_name,
+					'id': Fsinger_mid,
+					'avatar': Fsinger_id
+				}
+			]
+		},
+		ret: {
+			[
+				{
+					title: 'A',
+					item: []
+				},
+				{
+					title: 'B',
+					item: []
+				}
+			]
+		}
+	}
+]

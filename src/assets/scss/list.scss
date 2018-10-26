@@ -1,0 +1,35 @@
+.hot-song{
+		position: relative;
+		padding-bottom:50px;
+		padding-top:40px;
+		dl{
+			display: flex;
+			margin:0 0 1.625rem 0;
+			dt{
+				flex:1;
+				padding-left:1.25rem;
+				img{
+					width:100%;
+				}
+			}
+			dd{
+				flex:5;
+				padding: 0 1.25rem 0 1.25rem;
+				white-space: nowrap;
+				overflow: hidden;
+				h2{
+					color:#fff;
+					font-size:1rem;
+					padding-bottom:.625rem;
+					overflow: hidden;
+					text-overflow:ellipsis;
+				}
+				p{
+					color:#737373;
+					overflow: hidden;
+					text-overflow:ellipsis;
+					// font-size: .875rem;
+				}
+			}
+		}
+	}
